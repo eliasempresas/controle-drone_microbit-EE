@@ -1,5 +1,5 @@
 
-> Abrir essa página em [https://eliasempresasbot.github.io/controle-ee/](https://eliasempresasbot.github.io/controle-ee/)
+> Abrir essa página em [https://eliasempresasbot.github.io/controle-EE/](https://eliasempresasbot.github.io/controle-EE/)
 
 ## Usar como extensão
 
