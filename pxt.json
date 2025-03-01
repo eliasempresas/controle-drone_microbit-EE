@@ -1,6 +1,6 @@
 {
     "name": "CONTROLE",
-    "description": "",
+    "description": "Controle do drone:bit EE",
     "dependencies": {
         "core": "*",
         "radio": "*",
