@@ -1,5 +1,5 @@
 {
-    "name": "CONTROLE",
+    "name": "CONTROLE DRONE",
     "description": "Controle do drone:bit EE",
     "dependencies": {
         "core": "*",
